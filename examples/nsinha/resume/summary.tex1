@@ -1,0 +1,23 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Summary}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------  
+\cventryOnlyDescription
+      {\begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {Over fourteen years of experience implementing distributed, multi processor and multicore systems to perform complex tasks in a efficient, failsafe, high availability manner.}
+        \item {Strong background in theoretical approaches to design and implementation of computer based systems in server based architectures and embedded systems.}
+	\item {Languages: Scala, Java, C++, C, C#, Emacs Lisp, Python, Shells in Unices.}
+	\item {Systems: Writing realtime OS systems, Linux OS, Windows}
+	\item {Tools: Latex, Excel, Matlab, Hadoop, Cassandra, Redis, Messagge brokers, Web frameworks, MySql, PostGresSql, Unit and Integration test methodologies, Asynchronpus processing, PowerPC, Arm, Virtual machines.}
+      \end{cvitems}
+      }
+%---------------------------------------------------------
+\end{cventries}
